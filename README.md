@@ -1,6 +1,6 @@
 # numbers
 game  －－ Numbers;</br>
-使用cocos2d-3.12制作的一个休闲类游戏，代码没什么难点;</br>
+使用cocos2d-3.12制作的一个休闲类游戏;</br>
 考察玩家的算术水平;</br>
 
 #玩法
@@ -12,4 +12,5 @@ SceneControl:——用于切换场景;</br>
 DataControl: --用于加载数据;</br>
 GuideControl:--新手引导控制;</br>
 SoundControl:--声音加载控制;</br>
+
 
