@@ -1,5 +1,5 @@
 # numbers
-game  －－ Numbers;
+game  －－ Numbers;</br>
 使用cocos2d-3.12制作的一个休闲类游戏，代码没什么难点;</br>
 考察玩家的算术水平;</br>
 
